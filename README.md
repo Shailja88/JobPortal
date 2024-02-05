@@ -1,7 +1,7 @@
 job-portal-mern-stack
 This is a Full stack job App made with MERN Stack, MUI, Datagrid, cookie, etc. It is a Youtube series to teach step by step how to make a full stack App
 <img width="1198" alt="Screenshot 2024-02-05 at 9 01 05 PM" src="https://github.com/Shailja88/JobPortal/assets/93506772/784a04e6-08c7-4918-9a4a-cd42f579541b">
-<img width="570" alt="Screenshot 2024-02-05 at 9 04 23 PM" src="https://github.com/Shailja88/JobPortal/assets/93506772/a71939ee-0e68-4315-9a18-5ff126df87da">
+
 
 <img width="1460" alt="Screenshot 2024-02-05 at 9 04 33 PM" src="https://github.com/Shailja88/JobPortal/assets/93506772/e5794651-12a7-424e-9908-fa83e629013b">
 <img width="1450" alt="Screenshot 2024-02-05 at 9 05 15 PM" src="https://github.com/Shailja88/JobPortal/assets/93506772/3e71fe74-e786-4b3b-ad83-cd1e94d53f67">
