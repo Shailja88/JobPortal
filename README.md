@@ -11,7 +11,7 @@ This is a Full stack job App made with MERN Stack, MUI, Datagrid, cookie, etc. I
 <img width="1436" alt="Screenshot 2024-02-05 at 8 59 34 PM" src="https://github.com/Shailja88/JobPortal/assets/93506772/7c5e59ae-5c2b-4204-a94c-925cfbade0c1">
 <img width="1424" alt="Screenshot 2024-02-05 at 9 00 09 PM" src="https://github.com/Shailja88/JobPortal/assets/93506772/1a3e13a5-e70d-4cca-9c29-d3fdb94ee8e1">
 
-<img width="1198" alt="Screenshot 2024-02-05 at 9 01 05 PM" src="https://github.com/Shailja88/JobPortal/assets/93506772/3ce49505-020d-4b3d-be6e-7c20dacad641">
+
 
 Features:
 - Software Architecture: MVC pattern;
